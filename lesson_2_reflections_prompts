@@ -1,1 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
+Git will initialize an empty repository linked to the directory where the
+initialization took place. That is necessary because all meta data that git uses will be stored in that new directory
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is a middle ground between the two where one can put files that will be part of commits in the future. This has the benefit
+of not having commits for each file to be added
