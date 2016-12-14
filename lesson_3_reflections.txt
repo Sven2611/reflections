@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+It makes sense to have a remote repository in case there happens something to  my 
+computer. Also to collaborately work on a programming project it is extremely helpful
+so that all people can contribute and are always up to date
+
